@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Computer Engineering Student @ The University of Queensland
 
 
