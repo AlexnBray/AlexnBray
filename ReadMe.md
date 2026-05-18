@@ -1,5 +1,5 @@
 # About Me:
-Computer Engineering Student @ The University of Queensland
+Software Engineering Student @ The University of Queensland
 
 
 ## 🌐 Socials:
